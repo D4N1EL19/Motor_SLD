@@ -1,0 +1,3 @@
+*.log
+main/__pycache__/
+ejercicio_clase/__pycache__/
